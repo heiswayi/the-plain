@@ -12,7 +12,7 @@ twitter_username: HeiswayiNrird
 
 # Site Settings
 # Base URL, start with http:// and must end WITHOUT a slash
-baseurl: ''
+baseurl: '/the-plain'
 permalink: /notes/:title
 timezone: Asia/Kuala_Lumpur
 
