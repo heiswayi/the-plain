@@ -360,7 +360,7 @@ article {
 				@each $format in $social {
 
 					&[href*="#{$format}"] {
-						background-image: url( /icons/#{$format}.svg );
+						background-image: url( {{site.baseurl}}/assets/icons/#{$format}.svg );
 					}
 
 				}
