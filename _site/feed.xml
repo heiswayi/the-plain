@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>The Plain</title>
+	<subtitle>The Plain is a minimalist Jekyll theme focus on writing that matters.</subtitle>
+	<link rel="alternate" href="/" />
+	<link rel="self" href="/feed.xml" />
+	<rights>Copyright @ 2015, Heiswayi Nrird</rights>
+	<icon>/assets/favicon.png</icon>
+
+	<author>
+		<name>Heiswayi Nrird</name>
+		<email>hnrird@gmail.com</email>
+		<uri>https://twitter.com/HeiswayiNrird</uri>
+	</author>
+
+	<updated>2015-09-08T16:03:04+00:00</updated>
+	<id>/</id>
+	<generator version="2.5.3">Jekyll</generator>
+
+	
+
+		
+		
+		
+
+		<entry>
+			<title type="html">Lorem Ipsum</title>
+			<id>/notes/lorem-ipsum</id>
+			<updated>2015-09-06T15:56:00+00:00</updated>
+			<published>2015-09-06T10:00:00+02:00</published>
+			<content type="html" xml:lang="en"><![CDATA[<h3 id="the-standard-lorem-ipsum-passage-used-since-the-1500s">The standard Lorem Ipsum passage, used since the 1500s</h3>
+
+<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”</p>
+
+<h3 id="section-11032-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc">Section 1.10.32 of “de Finibus Bonorum et Malorum”, written by Cicero in 45 BC</h3>
+
+<p>“Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?”</p>
+
+<h3 id="translation-by-h-rackham">1914 translation by H. Rackham</h3>
+
+<p>“But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?”</p>
+
+<h3 id="section-11033-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc">Section 1.10.33 of “de Finibus Bonorum et Malorum”, written by Cicero in 45 BC</h3>
+
+<p>“At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.”</p>
+
+<h3 id="translation-by-h-rackham-1">1914 translation by H. Rackham</h3>
+
+<p>“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.”</p>
+]]></content>
+		</entry>
+
+	
+
+		
+		
+		
+
+		<entry>
+			<title type="html">Markdown Cheatsheet Demo</title>
+			<id>/notes/markdown-cheatsheet-demo</id>
+			<updated>2015-09-04T22:43:00+00:00</updated>
+			<published>2015-09-04T10:00:00+02:00</published>
+			<content type="html" xml:lang="en"><![CDATA[<blockquote>
+  <p>This is Markdown Cheatsheet Demo for <strong>The Plain</strong>, this Jekyll theme. Please check the raw content of this file for the markdown usage.</p>
+</blockquote>
+
+<h2 id="typography-elements-in-one">Typography Elements in One</h2>
+
+<p>Let’s start with a informative paragraph. <strong>This text is bolded.</strong> But not this one! <em>How about italic text?</em> Cool right? Ok, let’s <strong><em>combine</em></strong> them together. Yeah, that’s right! I have code to highlight, so <code>ThisIsMyCode()</code>. What a nice! Good people will hyperlink away, so <a href="#">here we go</a> or <a href="http://www.example.com">http://www.example.com</a>.</p>
+
+<div class="divider"></div>
+
+<h2 id="headings-h1-to-h6">Headings H1 to H6</h2>
+
+<h1 id="h1-heading">H1 Heading</h1>
+
+<h2 id="h2-heading">H2 Heading</h2>
+
+<h3 id="h3-heading">H3 Heading</h3>
+
+<h4 id="h4-heading">H4 Heading</h4>
+
+<h5 id="h5-heading">H5 Heading</h5>
+
+<h6 id="h6-heading">H6 Heading</h6>
+
+<div class="divider"></div>
+
+<h2 id="footnote">Footnote</h2>
+
+<p>Let’s say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. You can even add more footnotes, with link! <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<div class="divider"></div>
+
+<h2 id="blockquote">Blockquote</h2>
+
+<blockquote>
+  <p>Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. –Francis of Assisi</p>
+</blockquote>
+
+<p><strong>NOTE:</strong> This theme does NOT support nested blockquotes.</p>
+
+<div class="divider"></div>
+
+<h2 id="list-items">List Items</h2>
+
+<ol>
+  <li>First order list item</li>
+  <li>Second item</li>
+</ol>
+
+<ul>
+  <li>Unordered list can use asterisks</li>
+  <li>Or minuses</li>
+  <li>Or pluses</li>
+</ul>
+
+<div class="divider"></div>
+
+<h2 id="code-blocks">Code Blocks</h2>
+
+<pre><code class="language-javascript">var s = "JavaScript syntax highlighting";
+alert(s);
+</code></pre>
+
+<pre><code class="language-python">s = "Python syntax highlighting"
+print s
+</code></pre>
+
+<pre><code>No language indicated, so no syntax highlighting.
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+</code></pre>
+
+<div class="divider"></div>
+
+<h2 id="table">Table</h2>
+
+<h3 id="table-1-with-alignment">Table 1: With Alignment</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th style="text-align: center">Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td style="text-align: center">are neat</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="table-2-with-typography-elements">Table 2: With Typography Elements</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Markdown</th>
+      <th>Less</th>
+      <th>Pretty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Still</em></td>
+      <td><code>renders</code></td>
+      <td><strong>nicely</strong></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="divider"></div>
+
+<h2 id="horizontal-line">Horizontal Line</h2>
+
+<p>The HTML <code>&lt;hr&gt;</code> element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a <code>&lt;hr&gt;</code> with any of the following:</p>
+
+<ul>
+  <li><code>___</code>: three consecutive underscores</li>
+  <li><code>---</code>: three consecutive dashes</li>
+  <li><code>***</code>: three consecutive asterisks</li>
+</ul>
+
+<p>renders to:</p>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<div class="divider"></div>
+
+<h2 id="media">Media</h2>
+
+<h3 id="youtube-embedded-iframe">YouTube Embedded Iframe</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen=""></iframe>
+
+<h3 id="image">Image</h3>
+
+<p><img src="http://octodex.github.com/images/minion.png" alt="Minion" /></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Footnote number one yeah baby! <a href="#fnref:1" class="reversefootnote">&#8617;&#xfe0e;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>A footnote you can link to - <a href="#">click here!</a> <a href="#fnref:2" class="reversefootnote">&#8617;&#xfe0e;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+		</entry>
+
+	
+
+</feed>

@@ -1,0 +1,53 @@
+# Site Info
+title: "The Plain"
+description: "The Plain is a minimalist Jekyll theme focus on writing that matters."
+google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
+google_analytics: UA-XXXX-X
+
+# Author Info
+author_name: "Heiswayi Nrird"
+author_email: hnrird@gmail.com
+author_gravatar: 2b38b1b0e7e08b69379bd61582adf0c8
+twitter_username: HeiswayiNrird
+
+# Site Settings
+# Base URL, start with http:// and must end WITHOUT a slash
+baseurl: ''
+permalink: /notes/:title
+timezone: Asia/Kuala_Lumpur
+
+# Site Build
+highlighter: redcarpet
+markdown: kramdown
+kramdown:
+    input: GFM
+sass:
+    style: :compressed
+
+# Other Params
+include: [ 'robots.txt' ]
+exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
+gems:
+    - jekyll-sitemap
+
+compress_html:
+    clippings: all
+    ingore:
+        envs: [ 'test' ]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "null"
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
