@@ -1,53 +1,52 @@
 # Site Info
-title: "The Plain"
-description: "The Plain is a minimalist Jekyll theme focus on writing that matters."
-google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
-google_analytics: UA-XXXX-X
+title:              "The Plain"
+description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name: "Heiswayi Nrird"
-author_email: hnrird@gmail.com
-author_gravatar: 2b38b1b0e7e08b69379bd61582adf0c8
-twitter_username: HeiswayiNrird
+author_name:        "Heiswayi Nrird"
+author_email:       hnrird@gmail.com
+author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
+twitter_username:   HeiswayiNrird
 
 # Site Settings
-# Base URL, start with http:// and must end WITHOUT a slash
-baseurl: '/the-plain'
-permalink: /notes/:title
-timezone: Asia/Kuala_Lumpur
+baseurl:            "/the-plain" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /notes/:title # Post permalink
+timezone:           Asia/Kuala_Lumpur
 
 # Site Build
-highlighter: pygments
-markdown: redcarpet
+highlighter:        pygments
+markdown:           redcarpet
 redcarpet:
     extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 sass:
-    style: :compressed
+    style:          :compressed
 
 # Other Params
-include: [ 'robots.txt' ]
-exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
-    - jekyll-sitemap
+  - jekyll-sitemap
 
 compress_html:
-    clippings: all
+    clippings:      all
     ingore:
-        envs: [ 'test' ]
+        envs:       [ "test" ]
 
 defaults:
   -
     scope:
-      path: ""
+      path:         ""
     values:
-      layout: "null"
+      layout:       "null"
   -
     scope:
-      type: "pages"
+      type:         "pages"
     values:
-      layout: "page"
+      layout:       "page"
   -
     scope:
-      type: "posts"
+      type:         "posts"
     values:
-      layout: "post"
+      layout:       "post"
