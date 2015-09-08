@@ -329,48 +329,6 @@ article {
 		word-wrap: break-word;
 	}
 
-	.social {
-		list-style: none;
-		margin: 30px 0;
-		padding: 0;
-
-		li {
-			display: inline-block;
-			margin: 0 10px;
-
-			&:first-child {
-				margin-left: 0;
-			}
-
-			a {
-				display: block;
-				width: 30px;
-				height: 30px;
-				border: 0;
-				text-indent: -999999px;
-				background-position: center center;
-				background-size: auto 100%;
-
-				&:focus {
-					outline: none;
-				}
-
-				$social: twitter github dribbble feed mail;
-
-				@each $format in $social {
-
-					&[href*="#{$format}"] {
-						background-image: url( {{site.baseurl}}/assets/icons/#{$format}.svg );
-					}
-
-				}
-
-			}
-
-		}
-
-	}
-
 	.footnote {
 		border: 0;
 	}
