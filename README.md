@@ -4,4 +4,6 @@ A minimalist Jekyll theme, made with passion for simplicity by [Heiswayi Nrird](
 
 ## Credits
 
-This theme is based on [Leonard Lamprecht](https://leo.im/)'s Jekyll theme and released under [MIT license](LICENSE).
+This theme is based on Leonard Lamprecht's [Jekyll theme][1] and released under [MIT license](LICENSE).
+
+[1]: https://github.com/leo/leo.github.io
