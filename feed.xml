@@ -6,7 +6,7 @@
   <title>{{ site.title | xml_escape }}</title>
   <subtitle>{{ site.description | xml_escape }}</subtitle>
   <link href="{{ site.baseurl }}/" rel="alternate"/>
-  <link /feed.xml" }}" href="{{ site.baseurl | append: " rel="self"/>
+  <link href="{{ site.baseurl | append: /feed.xml }}" rel="self"/>
   <rights>Copyright @
     {{ site.time | date: '%Y' }},
     {{ site.author_name | xml_escape }}</rights>
