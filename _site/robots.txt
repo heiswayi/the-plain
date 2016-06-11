@@ -1,4 +1,0 @@
-sitemap: /sitemap.xml
-
-user-agent: EmailCollector
-disallow: /
