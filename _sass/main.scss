@@ -80,14 +80,11 @@ span[data-note] {
     }
   }
 }
-#banner {
-  outline: none;
-  display: block;
-  width: 182px;
-  height: 400px;
-  margin: 0 auto 35px;
-  position: relative;
-  background-image: url("/assets/headplate.png");
+header {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  font-family: serif;
 }
 iframe {
   margin: 45px 0 !important;
