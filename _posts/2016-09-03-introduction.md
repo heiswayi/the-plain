@@ -11,4 +11,4 @@ This site is a place to collect my notes on this - admittedly very broad - topic
 
 The first series of notes I'll post here will be on the idiosyncratically ultra-left communist journal _[Endnotes](https://endnotes.org.uk/about)_, which I'll be reading with [a group](http://dc-endnotes.tumblr.com/).
 
-My email address is `[first name][first letter of last name] at gmail dot com`.
+My email address is `bjornw at gmail dot com`.
