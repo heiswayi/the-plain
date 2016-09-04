@@ -3,6 +3,7 @@ body {
 }
 .posttitle {
   font-size: 250%;
+  line-height: 1em;
 }
 img {
   max-width: 100%;
@@ -11,9 +12,9 @@ mark {
   background: #fffc76;
   padding: 0 5px;
 }
-blockquote {
-  margin: 40px 0;
-  padding: 5px 30px;
+.footnotes {
+  font-size: 0.8em;
+  line-height: 1.1em;
 }
 span[data-note] {
   font-size: 0.8em;
@@ -88,18 +89,6 @@ header {
 }
 iframe {
   margin: 45px 0 !important;
-}
-ul,
-ol {
-  margin: 40px 0;
-  padding-left: 50px;
-  li {
-    word-wrap: break-word;
-  }
-  img {
-    margin: 40px 0;
-    border-radius: 5px;
-  }
 }
 sup {
   vertical-align: top;
