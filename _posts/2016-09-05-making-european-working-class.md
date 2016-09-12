@@ -22,9 +22,9 @@ In what follows I'll try to provide some interpretive cues for _Results_ drawn l
 
 # _Results of the Direct Production Process_
 
-_Results_ was intended as "a summary of Volume 1 and as a _bridge_ between Volumes 1 and 2 [of Capital]"[^mandel] (italics original). It is a summary in that it deals with the same subject matter as the "middle third" of Volume 1[^middlethird]: the production of absolute and relative surplus value, which correspond to formal and real subsumption respectively. It sets the stage for Volume II's discussion of the circuits of capital by adumbrating how such circuits could get underway, and in particular how existing labor processes could be incorporated by them.
+_Results_ was intended as "a summary of Volume 1 and as a _bridge_ between Volumes 1 and 2 [of Capital]"[^mandel] (italics original). It is a summary in that it deals with the same subject matter as the "middle third" of Volume 1[^middlethird]: the production of absolute and relative surplus value, which correspond to formal and real subsumption respectively. It sets the stage for Volume II's discussion of the circuits of capital by adumbrating how such circuits could get underway, and in particular how they could incorporate pre-existing labor processes (e.g. those of artisans).
 
-In the first section, _Commodities as the Product of Capital_, the commodity is presented as the form of wealth adequate to capitalist production:
+In the first of three sections, _Commodities as the Product of Capital_, the commodity is presented as the form of wealth adequate to capitalist production [^commodityform]. That wealth should take the form of commodities is both a prerequisite and consequence of capitalist production:
 
 > The commodity, as the elementary form of bourgeois wealth, was our starting point, the presupposition for the emergence of capital. On the other hand, commodities now appear as the product of capital.
 
@@ -32,6 +32,23 @@ In the first section, _Commodities as the Product of Capital_, the commodity is 
 
 > If, in contrast, we consider societies where capitalist production is fully developed, the commodity appears there as both the constant elementary presupposition of capital and, on the other hand, as the direct result of the capitalist production process.
 
+Commodity production antedates the development of capitalist production but the commodity is not yet the "general form of the product", the "universal elementary form of wealth", "the general form of all produce", etc it will become when capitalist production predominates. Murray speaks of the "generalized commodity form" in connection with situations in which this condition obtains.
+
+As an example of this pre-existing commodity production Marx twice refers to the division of agricultural produce into the means of subsistence for the producer and an amount in excess of subsistence need which is sold. Commodity production of this kind is the predominant form when direct producers are not yet dependent on the market. "If, e.g., capital has not yet taken control of agriculture, a large part of the product is still produced directly as means of subsistence, not as commodities; a large part of the working population will not yet have been converted into wage labourers, nor will a large part of the conditions of labour have been converted into capital."
+
+The commodity, an economic category "appropriate to earlier modes of production", acquires a "new and specific historical character under the impact of capitalist production". Production for sale goes from being an incidental ("Well kids, if the harvest is good we might have some corn to sell!") to primary ("We'll hire workers to plant corn if prices don't keep dropping") intention of those bringing goods to market. In the circuit-syntax of Vol. 2, the exchange of one commodity for money with which another commodity is purchased (`C-M-C`) is supplanted by exchange of money for means of production and labor power used to produce a commodity chosen so as to engender a sale for more than the cost of the factors of production advanced (`M-C(MP/LP)-P-C'-M'`).
+
+For the production _of commodities_ to proliferate, it must increasingly become production _by means of commodities_. It is only when the worker's ability to work is "converted into a commodity for him"[^forHim] that "production of commodities leads inexorably to capitalist production". Capitalist commodity production inexorably displaces the form commodity production on which it initially depends - that carried out by producers with access to factors of production (e.g. land and their own capacity to labor) independent of market exchange.
+
+The key point of the first section is the historic novelty of the _generalization_ of commodity production. In the second section, _Capitalist Production as the Production of Surplus Value_, it is the historic novelty of the capital-relation that's emphasized. Put another way, Marx is keen to circumscribe the time period to which the concept of capital can be applied without obfuscating social reality.
+
+In this he is set apart from his contemporaries and the great majority of ours. Here, for instance, is how capital is defined in Samuelson and Nordhaus's wildly popular introductory textbook _Economics_:
+
+> An advanced industrial economy like the United States employs a vast array of buildings, machines, computers, software, and so on. These are the factors of production called __capital__ - a produced factor of production, a durable input which is itself an output of the economy. [...]
+
+> Use of capital involves time-consuming, round-about methods of production. People learned long ago that indirect and roundabout production techniques are often more efficient than direct methods of production. For example, the most direct method of catching fish is to wade into a stream and grab fish with your hands, but this yields more frustration than fish. By using a fishing rod (which is capital equipment), fishing time becomes more productive in terms of fish caught per day. By using even more capital, in the form of nets and fishing boats, fishing becomes productive enough to feed many people and provide a good living to those who operate the specialized nets and equipment.
+
+In other words, capital is simply an artifact used to produce other artifacts, or "wealth capable of being used to produce more wealth" [^wealth2wealth]. By this definition, the maker and user of capital may be one and the same or they may be distinct, and if distinct, they may stand in any relation whatsoever to one another. By knapping flints, the Pleistocene residents of [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge#Toolmaking) were creating some of the first capital equipment, a produced means of sliced meat production in the form of a sharp rock.
 
 - Place of _Results_ in Marx's corpus
   - Bridge between vol. 1 and vol. 2
@@ -54,16 +71,14 @@ In the first section, _Commodities as the Product of Capital_, the commodity is 
     - Real
     - Hybrid
     - Ideal
-  - Mentality of the new subordinate classes (respectability!)
-    - "so the worker is indifferent to the particular content of his labour" (instrumental relation to wage labor)
-    - Needs
+  - Mentality of the new subordinate classes (respectability!) p1033
+    - self control
+    - "so the worker is indifferent to the particular content of his labour" (instrumental relation to wage labor) p1034
 - Controversies
   - Which kinds of production are the concomitants of which forms of subsumption?
   - Historical/Conceptual
   - What can be subsumed? Labor process, workers, other factors of production, society?
     - "Marx considers the possibility of a distinct historical stage of merely formal subsumption but finds no evidence of one. Neither does Marx think that there is any historical period of ‘simple co-operation’ (454)." - Murray
-
-# _Forging Democracy_
 
 [^socialproblem]: Page 47
 
@@ -76,3 +91,9 @@ In the first section, _Commodities as the Product of Capital_, the commodity is 
 [^mandel]: Mandel introduction to _Results_ in the Penguin edition.
 
 [^middlethird]: The middle third consisting of "Part III: The Production of Absolute Surplus-Value", "Part IV: Production of Relative Surplus Value", and "Part V: The Production of Absolute and of Relative Surplus-Value"
+
+[^commodityform]: Page 949-951, Capital Vol. 1, Penguin Edition
+
+[^forHim]: Cf. Vol. 1 Ch. 26, [The Secret of Primitive Accumulation](https://www.marxists.org/archive/marx/works/1867-c1/ch26.htm)
+
+[^wealth2wealth]: Page 245 [^murray]
