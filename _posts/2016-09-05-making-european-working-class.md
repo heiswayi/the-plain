@@ -1,5 +1,5 @@
 ---
-title: 'Endnotes Week #1: The Making of the European Working Class'
+title: 'Endnotes Week #1: Subsumption and The Making of the European Working Class'
 updated: 2016-09-05T10:21:27-0400
 ---
 
@@ -24,7 +24,7 @@ In what follows I'll try to provide some interpretive cues for _Results_ drawn l
 
 _Results_ was intended as "a summary of Volume 1 and as a _bridge_ between Volumes 1 and 2 [of Capital]"[^mandel] (italics original). It is a summary in that it deals with the same subject matter as the "middle third" of Volume 1[^middlethird]: the production of absolute and relative surplus value, which correspond to formal and real subsumption respectively. It sets the stage for Volume II's discussion of the circuits of capital by adumbrating how such circuits could get underway, and in particular how they could incorporate pre-existing labor processes (e.g. those of artisans).
 
-In the first of three sections, _Commodities as the Product of Capital_, the commodity is presented as the form of wealth adequate to capitalist production [^commodityform]. That wealth should take the form of commodities is both a prerequisite and consequence of capitalist production:
+In the first of three sections, _Commodities as the Product of Capital_, as in the Chapter 1 of Volume 1, the commodity is presented as the form of wealth in capitalist societies [^commodityform]. That wealth should take the form of commodities is both a prerequisite and consequence of capitalist production:
 
 > The commodity, as the elementary form of bourgeois wealth, was our starting point, the presupposition for the emergence of capital. On the other hand, commodities now appear as the product of capital.
 
@@ -36,7 +36,7 @@ Commodity production antedates the development of capitalist production but the 
 
 As an example of this pre-existing commodity production Marx twice refers to the division of agricultural produce into the means of subsistence for the producer and an amount in excess of subsistence need which is sold. Commodity production of this kind is the predominant form when direct producers are not yet dependent on the market. "If, e.g., capital has not yet taken control of agriculture, a large part of the product is still produced directly as means of subsistence, not as commodities; a large part of the working population will not yet have been converted into wage labourers, nor will a large part of the conditions of labour have been converted into capital."
 
-The commodity, an economic category "appropriate to earlier modes of production", acquires a "new and specific historical character under the impact of capitalist production". Production for sale goes from being an incidental ("Well kids, if the harvest is good we might have some corn to sell!") to primary ("We'll hire workers to plant corn if prices don't keep dropping") intention of those bringing goods to market. In the circuit-syntax of Vol. 2, the exchange of one commodity for money with which another commodity is purchased (`C-M-C`) is supplanted by exchange of money for means of production and labor power used to produce a commodity chosen so as to engender a sale for more than the cost of the factors of production advanced (`M-C(MP/LP)-P-C'-M'`).
+The commodity, an economic category "appropriate to earlier modes of production", acquires a "new and specific historical character under the impact of capitalist production". Production for sale goes from being an incidental ("Well kids, if the harvest is good we might have some corn to sell!") to primary ("We'll hire workers to plant corn if prices don't keep dropping") intention of producers. In the circuit-syntax of Vol. 2, the exchange of one commodity for money with which another commodity is purchased (`C-M-C`) is supplanted by exchange of money for means of production and labor power used to produce a commodity chosen so as to engender a sale for more than the cost of the factors of production advanced (`M-C(MP/LP)-P-C'-M'`).
 
 For the production _of commodities_ to proliferate, it must increasingly become production _by means of commodities_. It is only when the worker's ability to work is "converted into a commodity for him"[^forHim] that "production of commodities leads inexorably to capitalist production". Capitalist commodity production inexorably displaces the form commodity production on which it initially depends - that carried out by producers with access to factors of production (e.g. land and their own capacity to labor) independent of market exchange.
 
@@ -48,7 +48,7 @@ In this he is set apart from his contemporaries and the great majority of ours. 
 
 > Use of capital involves time-consuming, round-about methods of production. People learned long ago that indirect and roundabout production techniques are often more efficient than direct methods of production. For example, the most direct method of catching fish is to wade into a stream and grab fish with your hands, but this yields more frustration than fish. By using a fishing rod (which is capital equipment), fishing time becomes more productive in terms of fish caught per day. By using even more capital, in the form of nets and fishing boats, fishing becomes productive enough to feed many people and provide a good living to those who operate the specialized nets and equipment.
 
-In other words, capital is simply an artifact used to produce other artifacts, or "wealth capable of being used to produce more wealth" [^wealth2wealth]. By this definition, the maker and user of capital may be one and the same or they may be distinct, and if distinct, they may stand in any relation whatsoever to one another. By knapping flints, the Pleistocene residents of [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge#Toolmaking) were creating some of the first capital equipment, a produced means of sliced meat production in the form of a sharp rock.
+In other words, "capital is wealth capable of being used to produce more wealth" [^wealth2wealth]. The maker and user of capital equipment may be one and the same or they may be distinct, and if distinct, they may stand in any relation whatsoever to one another. A wooden spoon for stirring soup I whittle for myself is no more or less capital than an Amazon data center. By knapping flints, the early Pleistocene residents of [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge#Toolmaking) could be said to have been creating some of the first capital equipment, a produced means of sliced meat production.
 
 - Place of _Results_ in Marx's corpus
   - Bridge between vol. 1 and vol. 2
