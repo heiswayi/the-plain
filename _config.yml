@@ -1,12 +1,12 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+title:              "The Machinery Question"
+description:        "Notes on the philosophy of technology and its relevance to the politics working life."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+google_analytics:   UA-83608161-1 # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
+author_name:        "Björn Westergard"
+author_email:       bjornw@gmail.com
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
 twitter_username:   HeiswayiNrird
 
