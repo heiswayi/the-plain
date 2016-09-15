@@ -50,7 +50,7 @@ This approach distinguishes him from his contemporaries and the great majority o
 
 In other words: "capital is wealth capable of being used to produce more wealth" [^wealth2wealth]. The maker and user of "capital equipment" may be one and the same or they may be distinct, and if distinct, they may stand in any relation whatsoever to one another. A fishing rod made to feed oneself is no less capital than an Amazon data center. By knapping flints, the early Pleistocene residents of [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge#Toolmaking) could be said to have been creating some of the first "capital equipment", a produced means of flayed carcass production.
 
-The generality of this definition makes its employment hazardous. It "encompasses all human societies"[^wealth2wealth], so with it in mind we are liable to lose sight of what is extraordinary about our own era: that the social form of wealth in our society "revolutionizes [it], its goods and services, and the ways they are produced". It is the latter of these revolutions that Marx terms "real subsumption of labor under capital".
+The generality of this definition makes its employment hazardous. First, it "encompasses all human societies"[^wealth2wealth], so with it in mind we are liable to lose sight of what is extraordinary about our own era: that the social form of wealth in our society "revolutionizes [it], its goods and services, and the ways they are produced". It is the latter of these revolutions that Marx terms "real subsumption of labor under capital".
 
 The second hazard is somewhat more subtle:
 
