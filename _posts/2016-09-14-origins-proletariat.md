@@ -18,7 +18,7 @@ Moreover, for Endnotes and their interlocutors, rival conceptions of subsumption
 
 > In the 1970s — in the midst of the historical break with the programmatic[^programmatism] epoch of class struggle — the concept of “subsumption” emerged in Marxist discourse in the process of a general return to Marx, and in particular to the drafts of Capital. In a moment of rupture, the need to periodise the history of the capitalist class relation was evident. Since the distinction between the “formal” and “real” subsumption of labour under capital — which was prominent in texts of Marx which were only then becoming known — seemed to identify something important about the historical deepening of capitalist relations of production, it provided an obvious starting point for such periodisations. Thus the concept of subsumption was employed not only in the periodisation of TC, but also in those of Jacques Camatte and Antonio Negri — periodisations which often overlap significantly.[^periodize]
 
-In what follows I'll try to provide some interpretive cues for the discussion of subsumption in the _Results_ drawn largely from a paper by Patrick Murray[^murray]. It is cited by the above-quoted _Endnotes_ essay. I'll defer discussion of subsumption until the appointed time (Week #3).
+In what follows I'll try to provide some context for the discussion of subsumption in the _Results_ drawn largely from a paper by Patrick Murray[^murray]. It is cited by the above-quoted _Endnotes_ essay. I'll defer an in-depth discussion of subsumption until the appointed time (Week #3).
 
 # Context and structure of _Results_
 
