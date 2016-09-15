@@ -46,7 +46,7 @@ This approach distinguishes him from his contemporaries and the great majority o
 
 > An advanced industrial economy like the United States employs a vast array of buildings, machines, computers, software, and so on. These are the factors of production called __capital__ - a produced factor of production, a durable input which is itself an output of the economy. [...]
 
-> Use of capital involves time-consuming, round-about methods of production. People learned long ago that indirect and roundabout production techniques are often more efficient than direct methods of production. For example, the most direct method of catching fish is to wade into a stream and grab fish with your hands, but this yields more frustration than fish. By using a fishing rod (which is capital equipment), fishing time becomes more productive in terms of fish caught per day. By using even more capital, in the form of nets and fishing boats, fishing becomes productive enough to feed many people and provide a good living to those who operate the specialized nets and equipment.
+> Use of capital involves time-consuming, round-about methods of production. People learned long ago that indirect and roundabout production techniques are often more efficient than direct methods of production. For example, the most direct method of catching fish is to wade into a stream and grab fish with your hands, but this yields more frustration than fish. By using a fishing rod (which is capital equipment), fishing time becomes more productive in terms of fish caught per day. By using even more capital, in the form of nets and fishing boats, fishing becomes productive enough to feed many people and provide a good living to those who operate the specialized nets and equipment.[^samuelson]
 
 In other words: "capital is wealth capable of being used to produce more wealth" [^wealth2wealth]. The maker and user of "capital equipment" may be one and the same or they may be distinct, and if distinct, they may stand in any relation whatsoever to one another. A fishing rod made to feed oneself is no less capital than an Amazon data center. By knapping flints, the early Pleistocene residents of [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge#Toolmaking) could be said to have been creating some of the first "capital equipment", a produced means of flayed carcass production.
 
@@ -81,3 +81,5 @@ For Marx, capital and wage-labor are two sides of the same social relation, and 
 [^doubleFreedom]: See Chapter 6, Volume 1, Capital. Results, 1025.
 
 [^factOfProd]: Quote is from [marxists.org](https://www.marxists.org/archive/marx/works/1864/economic/ch02a.htm#469) because I'm lazy. It's on page 1003 in the Penguin edition.
+
+[^samuelson]: Samuelson, Paul A., and William D. Nordhaus. Economics. Boston: McGraw-Hill/Irwin, 2005. Page 33.
