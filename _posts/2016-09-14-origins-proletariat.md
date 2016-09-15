@@ -20,7 +20,7 @@ Moreover, for Endnotes and their interlocutors, rival conceptions of subsumption
 
 In what follows I'll try to provide some interpretive cues for the discussion of subsumption in the _Results_ drawn largely from a paper by Patrick Murray[^murray]. It is cited by the above-quoted _Endnotes_ essay. I'll defer discussion of subsumption until the appointed time (Week #3).
 
-# Note on the structure of _Results_
+# Context and structure of _Results_
 
 _Results_ was intended as "a summary of Volume 1 and as a _bridge_ between Volumes 1 and 2 [of Capital]"[^mandel] (italics original). It dwells at length on the subject matter of the "middle third" of Volume 1[^middlethird]: the production of absolute and relative surplus value, which correspond to formal and real subsumption respectively. It sets the stage for Volume II's discussion of the circuits of capital by adumbrating how such circuits could get underway, and in particular how existing labor processes could be incorporated within them.
 
