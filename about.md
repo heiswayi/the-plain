@@ -3,10 +3,9 @@ layout: page
 title: About
 ---
 
-Hello.
+Greetings. Salutations.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Wow, you found my blog! Congratulations. Inside you're going to find plenty of posts in which I shamelessly self-promote my ideas and opinions.  I think they're pretty good ones, hopefully you do too.
 
-**Just write thing that matters..**
+If you're a recruiter that stumbled across this blog and think I might be a good fit for a position you're trying to fill, feel free to shoot me an email (be sure to mention this blog so I know how you found me).
 
-Enjoy!
