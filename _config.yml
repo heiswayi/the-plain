@@ -1,8 +1,8 @@
 # Site Info
 title:              "Boom, explosions."
 description:        "Let's get straight to the point: Seth Kingry has good ideas."
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-85394727-1 # Put your Google Analytics code
+google_verify:      s0p5u9NxSxvEMtuoguTJ9PwLFlm65D7C7ieG1S_ClOM
+google_analytics:   UA-85394727-1
 
 # Author Info
 author_name:        "Seth Kingry"
@@ -11,15 +11,12 @@ author_gravatar:    2a25a2f06a6c31a3c3f68b7a20eadb58
 twitter_username:   skingry
 
 # Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
-timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+baseurl:            ""
+permalink:          /notes/:title
+timezone:           America/New_York
 
 # Site Build
 highlighter:        rouge
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
 markdown:           kramdown
 kramdown:
     input:          GFM
