@@ -1,19 +1,19 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+title:              "Boom, explosions."
+description:        "Let's get straight to the point: Seth Kingry has good ideas."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+google_analytics:   UA-85394727-1 # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   HeiswayiNrird
+author_name:        "Seth Kingry"
+author_email:       sjkingry@gmail.com
+author_gravatar:    c44406b151d88a19c21bab24cc2412b
+twitter_username:   skingry
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
 highlighter:        rouge
