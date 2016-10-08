@@ -1,19 +1,28 @@
-# The Plain v1
+## What is this thing?
 
-A minimalist Jekyll theme that focues on writing matters, made with passion for simplicity. A great, white clean theme for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. Typeface used is [Fira Sans font](https://github.com/mozilla/Fira) by Mozilla.
+It's the source code for my blog!
 
-[**Demo**](http://heiswayi.github.io/the-plain/)
+## Why does your blog exist?
 
-You may refer [this post here](http://heiswayi.github.io/the-plain.html) for how-to-use instructions.
+Simple answer: shameless self-promotion.  I think my ideas and opinions are pretty good.  Hopefully you do too.
 
-### screenshot
+![screenshot](https://media.giphy.com/media/3oriePvRxaYKu3Blkc/giphy.gif)
 
-![Screenshot](http://i.imgur.com/zAkZq0d.png)
+## It looks really professional, how'd you do it?
 
-### Credits
+It was easy!  I just used the following tools:
 
-This theme is based on Leonard Lamprecht's [Jekyll theme](https://github.com/leo/leo.github.io).
+1. [Jekyll](https://jekyllrb.com/) as a framework.
 
-### License
+2. ...and I used ["The Plain"](https://github.com/heiswayi/the-plain) as the theme.
 
-[MIT](LICENSE.md)
+## What do I need to get this running locally for development?
+
+1. [Node.js](https://nodejs.org/en/)
+
+2. [Ruby >= 2.0.0](https://www.ruby-lang.org/en/)
+
+3. Step 2:5 of [these instructions](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler).
+
+Get it running with [step 4](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site).
+

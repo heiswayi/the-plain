@@ -3,10 +3,21 @@ layout: page
 title: About
 ---
 
-Hello.
+Greetings. Salutations. My name is Seth Kingry and I like to do stuff.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+I'm a systems engineer by trade, so most of that stuff has a technical or engineering slant to it.
 
-**Just write thing that matters..**
+Examples of some of the stuff I like to do:
 
-Enjoy!
+* Home Automation
+
+* Networking
+
+* Computer Security
+
+* Organizing random piles of assorted objects.
+
+This blog is a chronical of some of the times I did stuff. Sometimes doing that stuff went well, sometimes it didn't, hopefully you enjoy reading about it either way.
+
+If you're a recruiter that stumbled across this blog and think I might be a good fit for a position you're trying to fill, take a look at the post I have about my [resume](https://skingry.github.io/notes/my-resume).
+
