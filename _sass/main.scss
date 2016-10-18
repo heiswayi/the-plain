@@ -1,5 +1,5 @@
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Karla', sans-serif;
   padding: 20px;
   margin: 0;
   font-weight: 400;
@@ -305,9 +305,38 @@ article {
     }
   }
 }
-section {
+.block {
+  display: block;
+}
+.page-navigation,
+.footer {
+  text-align: center;
   max-width: 500px;
   margin: 0 auto;
+  font-size: 0.8rem;
+}
+.page-navigation {
+  margin: 50px auto 0 auto;
+  a {
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: none;
+  }
+  span {
+    display: inline-block;
+  }
+}
+.footer {
+  margin-top: 50px;
+  color: #777;
+  a {
+    border: none;
+    font-weight: bold;
+  }
+}
+section {
+  max-width: 500px;
+  margin: 0 auto 50px auto;
   ul {
     list-style: none;
     margin: 0;
@@ -316,9 +345,9 @@ section {
       margin: 25px 0;
       .title {
         max-width: 100%;
-        overflow: hidden !important;
-        text-overflow: ellipsis !important;
-        white-space: nowrap !important;
+        //overflow: hidden !important;
+        //text-overflow: ellipsis !important;
+        //white-space: nowrap !important;
         word-wrap: normal !important;
       }
       a {
