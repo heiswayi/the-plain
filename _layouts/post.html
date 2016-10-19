@@ -27,12 +27,12 @@ layout: default
 
 <div class="page-navigation">
 	{% if page.next.url %}
-    <a class="next" href="NEXT: {{page.next.url}}" title="{{page.next.title}}">&lt;&lt;</a>
+    <a class="next" href="{{page.next.url}}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
 		<span> &middot; </span>
   {% endif %}
 		<a class="home" href="{{site.baseurl}}/" title="Back to Homepage">Home</a>
   {% if page.previous.url %}
 		<span> &middot; </span>
-    <a class="prev" href="PREV: {{page.previous.url}}" title="{{page.previous.title}}">&gt;&gt;</a>
+    <a class="prev" href="{{page.previous.url}}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
   {% endif %}
 </div>
