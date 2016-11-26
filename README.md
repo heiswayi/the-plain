@@ -1,12 +1,10 @@
-# The Plain v2
+# The Plain v2.0
 
-A minimalist Jekyll theme that focuses on writing matters, made with passion for simplicity. A great, white clean theme for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. Typeface used is [Karla](https://fonts.google.com/specimen/Karla?selection.family=Karla) from Google Fonts.
+**The Plain** - just another white clean minimalist Jekyll theme that focuses on writing matters. Suitable for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. The typeface used is [Karla](https://fonts.google.com/specimen/Karla?selection.family=Karla) from Google Fonts.
 
-[**Demo**](http://heiswayi.github.io/the-plain/)
+[**Live Demo**](http://heiswayi.github.io/the-plain/)
 
-You may refer [this post here](http://heiswayi.github.io/the-plain.html) for how-to-use instructions.
-
-### Screenshot (v2)
+### Screenshot
 
 ![Screenshot](http://i.imgur.com/btWdSS0.png)
 
