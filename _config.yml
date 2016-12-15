@@ -15,6 +15,7 @@ github_username:    heiswayi # GitHub username
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
 highlighter:        rouge
@@ -33,10 +34,7 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
 
-compress_html:
-    clippings:      all
-    ingore:
-        envs:       [ "test" ]
+
 
 defaults:
   -
