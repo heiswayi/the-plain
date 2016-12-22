@@ -40,73 +40,6 @@ blockquote {
   padding: 5px 30px;
   background: #eee;
 }
-span[data-note] {
-  font-size: 0.8em;
-  background: #c1c1c1;
-  color: #fff;
-  font-weight: 700;
-  display: inline-block;
-  padding: 0 12px;
-  vertical-align: middle;
-  line-height: 18px;
-  cursor: pointer;
-  margin: 0 2px;
-  transition: background 0.3s;
-  -webkit-transition: background 0.3s;
-  -webkit-user-select: none;
-  &.open {
-    background: #838383;
-  }
-  @media (min-width: 768px) {
-    vertical-align: 1px;
-  }
-  @media (min-width: 992px) {&:hover {
-      background: #838383;
-    }
-  }
-}
-.note {
-  background: #f8f8f8;
-  border: 1px solid #ddd;
-  box-shadow: 0 0 8px rgba( 0, 0, 0, 0.2 );
-  padding: 20px 20px 50px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  transition-property: transform;
-  transition-duration: 0.6s;
-  transition-timing-function: ease;
-  -webkit-transition-property: transform;
-  -webkit-transition-duration: 0.6s;
-  -webkit-transition-timing-function: ease;
-  transform: translateY( calc( 100% + 8px ) );
-  -webkit-transform: translateY( calc( 100% + 8px ) );
-  font-size: 14px;
-  line-height: 1.7em;
-  &.shown {
-    transform: translateY( 0 );
-    -webkit-transform: translateY( 0 );
-  }
-  @media (min-width: 768px) {
-    right: 40px;
-    padding-bottom: 20px;
-    max-width: 400px;
-    left: auto;
-    bottom: 40px;
-    transition-property: opacity, transform;
-    -webkit-transition-property: opacity, transform;
-    transition-duration: 0.3s;
-    -webkit-transition-duration: 0.3s;
-    opacity: 0;
-    transform: scale( 0.1 ) translateZ( 0 );
-    -webkit-transform: scale( 0.1 ) translateZ( 0 );
-    &.shown {
-      transform: scale( 1 ) translateZ( 0 );
-      -webkit-transform: scale( 1 ) translateZ( 0 );
-      opacity: 1;
-    }
-  }
-}
 .logo {
   position: relative;
   margin: 0 auto 35px;
@@ -281,12 +214,25 @@ article {
   }
   .footnote {
     border: 0;
+    color: #0087BE;
   }
   .footnotes {
-    margin: 40px 0;
-    display: none;
+    margin: 50px auto;
+    display: block;
+    p {
+      line-height: 1rem;
+      font-weight: normal;
+    }
+    ol {
+      margin: 0;
+      padding-left: 15px;
+      li {
+        font-weight: bold;
+      }
+    }
     .reversefootnote {
       border: 0;
+      color: #0087BE;
     }
   }
 }
