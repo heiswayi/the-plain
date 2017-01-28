@@ -7,7 +7,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 # Author Info
 author_name:        "Heiswayi Nrird"
 author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
+author_gravatar:    /assets/avatar.png # Gravatar md5 hash
 twitter_username:   HeiswayiNrird
 github_username:    heiswayi # GitHub username
 
