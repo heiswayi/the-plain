@@ -1,21 +1,16 @@
-# The Plain v2.2
+# The Plain v3.0
 
-The Plain is just another white clean and minimalist Jekyll theme that designed to focus on writing matters. This theme is best use for personal blog type. Font or typeface used is [Karla](https://fonts.google.com/specimen/Karla?selection.family=Karla) from Google Web Fonts. This theme is inspired from Leonard Lamprecht's original [Jekyll theme](https://github.com/leo/leo.github.io).
+The Plain is a minimalist Jekyll theme, designed to focus on writing that really matters to you and your audience. Everything else is just a distraction. Nothing more other than useful and understandable information sharing. I have made a final update to this theme. No Google web font, no JS, and no fancy thing. This theme is suit best for personal blog type, but not limited to. P/S: This theme is originally inspired from Leonard Lamprecht's original [Jekyll theme](https://github.com/leo/leo.github.io) (thanks!).
 
 [**Live Demo**](http://heiswayi.github.io/the-plain/)
 
-### Screenshot
+### Screenshot?
 
-![Screenshot](http://i.imgur.com/btWdSS0.png)
+No need for that, [see it live](http://heiswayi.github.io/the-plain/) is the best screenshot!
 
-### Changelogs
+### Philosophy
 
-```
-2016/12/22 v2.2
-===============
-- Fixed footnote issue. Use classic way of displaying the footnotes at the bottom of the content.
-- Removed footnote scripts.
-```
+> Minimalism is a masterpiece of tranquility. -- Heiswayi Nrird
 
 ### License
 

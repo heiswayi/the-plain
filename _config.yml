@@ -1,15 +1,15 @@
 # Site Info
 title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   HeiswayiNrird
-github_username:    heiswayi # GitHub username
+author_name:        "YOUR_NAME" # Your name here
+author_email:       hnrird@gmail.com # Your email here
+author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
+twitter_username:   HeiswayiNrird # Your Twitter username here
+github_username:    heiswayi # Your GitHub username here
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -19,9 +19,6 @@ mathjax:            true  # enables support for mathjax - set to false to disabl
 
 # Site Build
 highlighter:        rouge
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
 markdown:           kramdown
 kramdown:
     input:          GFM

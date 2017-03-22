@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 {% if page.title %}
-	<title>{{ page.title }}</title>
+	<title>{{ page.title }} · {{ site.title }}</title>
 {% else %}
 	<title>{{ site.title }}</title>
 {% endif %}
@@ -21,7 +21,6 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/favicon.png">
 <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/touch-icon.png">
-<link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/core.css">
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl }}">
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
@@ -42,4 +41,4 @@
 
 {% if site.mathjax == true %}
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-{% endif %}   
+{% endif %}
