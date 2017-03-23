@@ -4,9 +4,9 @@ The Plain is a minimalist Jekyll theme, designed to focus on writing that really
 
 [**Live Demo**](http://heiswayi.github.io/the-plain/)
 
-### Screenshot?
+### Screenshot
 
-No need for that, [see it live](http://heiswayi.github.io/the-plain/) is the best screenshot!
+![The Plain Screenshot](http://i.imgur.com/8ZXhjfV.png)
 
 ### Philosophy
 
