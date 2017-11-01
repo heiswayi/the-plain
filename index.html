@@ -21,7 +21,7 @@ layout: default
 					<span>{{ post.date | date: "%b %d" }}</span>
 				</div>
 				<div class="title">
-					<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
 				</div>
 			</li>
 		</ul>
