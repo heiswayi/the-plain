@@ -12,7 +12,7 @@ twitter_username:   HeiswayiNrird # Your Twitter username here
 github_username:    heiswayi # Your GitHub username here
 
 # Site Settings
-url:                http://heiswayi.github.io # main url
+url:                https://heiswayi.nrird.com # main url
 baseurl:            /the-plain # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
