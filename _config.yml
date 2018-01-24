@@ -1,12 +1,12 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
+title:              "abhinav1602"
+description:        "This is my blog where I'll be posting article on things I study on daily basis. It is built a minimalistic jekyll theme:'The Plain'  "
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
 author_name:        "Abhinav Tiwari" # Your name here
 author_email:       abhinav2506293@gmail.com # Your email here
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
+author_gravatar:    4a431b6c4f84335b307967b871d1f68d # Your Gravatar md5 hash here for logo
 github_username:    abhinav1602 # Your GitHub username here
 
 # Site Settings
