@@ -1,5 +1,5 @@
 ---
-title: 'Endnotes Week #1: Origins of the Proletariat'
+title: 'Origins of the Proletariat'
 updated: 2016-09-05T10:21:27-0400
 ---
 
