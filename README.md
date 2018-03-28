@@ -32,6 +32,6 @@ and adjust them.
 
 ### Credits
 
-Many thanks to this themes [contributors](https://github.com/heiswayi/the-plain/graphs/contributors)
+Many thanks to this theme's [contributors](https://github.com/heiswayi/the-plain/graphs/contributors)
 that help fixing bugs or enhance source code.
 
