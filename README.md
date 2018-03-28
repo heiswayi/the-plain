@@ -17,6 +17,15 @@ P/S: This theme is originally inspired by [Leonard Lamprecht's _leo_ theme](http
 
 > Minimalism is a masterpiece of tranquility. -- Heiswayi Nrird
 
+### How to use
+
+Add this to your sites *_config.yml* file:
+
+	theme: the-plain
+
+Then copy some of the settings from this repos *_config.yml* file to your own,
+and adjust them.
+
 ### License
 
 [MIT](LICENSE.md)
