@@ -1,4 +1,5 @@
 _site/
+/*.gem
 .sass-cache/
 
 # Windows image file caches
