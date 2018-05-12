@@ -41,7 +41,7 @@ and adjust them.
 GitHub - for your user account pages or repository gh-pages -
 only supports a limited set of themes.
 
-Therefore, you may not use the 'remote\_theme:' setting instead of 'theme:',
+Therefore, you need to use the 'remote\_theme:' setting instead of 'theme:',
 which is supported by [a 3rd party plugin](https://github.com/benbalter/jekyll-remote-theme).
 
 Put this in your *Gemfile*:
