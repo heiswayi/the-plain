@@ -1,20 +1,16 @@
 # The Plain
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+> The Plain is a minimalist Jekyll theme, ideally designed for personal blog use. This Jekyll theme provides a minimum distraction so you can focus on writing that matters to you and your readers. This theme is originally inspired from [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io).
 
-The Plain is a minimalist Jekyll theme, ideally designed for personal blog use. This Jekyll theme provides a minimum distraction so you can focus on writing that matters to you and your readers. This theme is originally inspired from [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io).
-
-- [**See the Demo**](https://heiswayi.github.io/the-plain/)
-
-### Screenshot
+- **Demo:** https://heiswayi.github.io/the-plain/
 
 ![The Plain](https://i.imgur.com/FITKN1H.png)
 
-## How to use
+## Usage
 
-### on an unlimited jekyll host
+### On an unlimited Jekyll host
 
-**NOTE** This does NOT work on GitHub, see the next section.
+> **NOTE** This does NOT work on GitHub, see the next section.
 
 Put this in your *Gemfile*:
 
@@ -26,16 +22,13 @@ Add this to your sites *_config.yml* file:
 
 	theme: the-plain
 
-Then copy some of the settings from this repos *_config.yml* file to your own,
-and adjust them.
+Then copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
 
-### on GitHub
+### On GitHub
 
-GitHub - for your user account pages or repository gh-pages -
-only supports a limited set of themes.
+GitHub - for your user account pages or repository gh-pages - only supports a limited set of themes.
 
-Therefore, you need to use the 'remote\_theme:' setting instead of 'theme:',
-which is supported by [a 3rd party plugin](https://github.com/benbalter/jekyll-remote-theme).
+Therefore, you need to use the 'remote\_theme:' setting instead of 'theme:', which is supported by [a 3rd party plugin](https://github.com/benbalter/jekyll-remote-theme).
 
 Put this in your *Gemfile*:
 
@@ -43,19 +36,23 @@ Put this in your *Gemfile*:
 
 and run `bundle install` to install the plugin.
 
-Add the following to your site's *_config.yml* to activate the plugin
-and to select this theme:
+Add the following to your site's *_config.yml* to activate the plugin and to select this theme:
 
 	plugins:
 	  - jekyll-remote-theme
 
 	remote_theme: heiswayi/the-plain
 
-This will grab the theme directly from the github repo.
+This will grab the theme directly from the GitHub repo.
 
-Now copy some of the settings from this repos *_config.yml* file to your own,
-and adjust them.
+Now copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
 
-## Credits
+## Authors
 
-Many thanks to [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) who help fixing the bugs or enhancing source code.
+- **Heiswayi Nrird**
+
+See also the list of [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) who participated in this project.
+
+## License
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
