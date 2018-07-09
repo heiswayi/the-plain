@@ -4,17 +4,17 @@
 
 The Plain is a minimalist Jekyll theme, ideally designed for personal blog use. This Jekyll theme provides a minimum distraction so you can focus on writing that matters to you and your readers. This theme is originally inspired from [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io).
 
-- [**Demo**](https://heiswayi.github.io/the-plain/)
+- [**See the Demo**](https://heiswayi.github.io/the-plain/)
 
 ### Screenshot
 
-![The Plain Screenshot](http://i.imgur.com/8ZXhjfV.png)
+![The Plain](https://i.imgur.com/FITKN1H.png)
 
-### How to use
+## How to use
 
-#### on an unlimited jekyll host
+### on an unlimited jekyll host
 
-**NOTE** This does NOT work on github, see the next section.
+**NOTE** This does NOT work on GitHub, see the next section.
 
 Put this in your *Gemfile*:
 
@@ -29,7 +29,7 @@ Add this to your sites *_config.yml* file:
 Then copy some of the settings from this repos *_config.yml* file to your own,
 and adjust them.
 
-#### on github
+### on GitHub
 
 GitHub - for your user account pages or repository gh-pages -
 only supports a limited set of themes.
@@ -56,10 +56,6 @@ This will grab the theme directly from the github repo.
 Now copy some of the settings from this repos *_config.yml* file to your own,
 and adjust them.
 
-### License
+## Credits
 
-[MIT](LICENSE)
-
-### Credits
-
-Many thanks to this theme's [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) that help fixing bugs or enhancing source code.
+Many thanks to [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) who help fixing the bugs or enhancing source code.
