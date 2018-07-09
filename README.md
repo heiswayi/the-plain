@@ -1,21 +1,14 @@
 # The Plain
 
-_The Plain_ is a minimalist Jekyll theme, designed to focus on writing that really matters to you and your audience.
-Everything else is just a distraction.
-Nothing more other than useful and understandable information sharing.
-This theme is best suited for a personal blog type, but not limited to that.
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-P/S: This theme is originally inspired by [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io), thanks!
+The Plain is a minimalist Jekyll theme, ideally designed for personal blog use. This Jekyll theme provides a minimum distraction so you can focus on writing that matters to you and your readers. This theme is originally inspired from [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io).
 
-[**Live Demo**](http://heiswayi.github.io/the-plain/)
+- [**Demo**](https://heiswayi.github.io/the-plain/)
 
 ### Screenshot
 
 ![The Plain Screenshot](http://i.imgur.com/8ZXhjfV.png)
-
-### Philosophy
-
-> Minimalism is a masterpiece of tranquility. -- Heiswayi Nrird
 
 ### How to use
 
@@ -65,10 +58,8 @@ and adjust them.
 
 ### License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
 ### Credits
 
-Many thanks to this themes [contributors](https://github.com/heiswayi/the-plain/graphs/contributors)
-that help fixing bugs or enhancing source code.
-
+Many thanks to this theme's [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) that help fixing bugs or enhancing source code.

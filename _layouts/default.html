@@ -1,3 +1,8 @@
+---
+layout: compress
+published: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,9 +14,9 @@
 
 		{% include header.html %}
 
-		<main>
-			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
-		</main>
+		<div id="content">
+			{{ content }}
+		</div>
 
 		{% include footer.html %}
 

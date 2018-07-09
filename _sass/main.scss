@@ -1,9 +1,19 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 body {
   font-size: 14px;
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family: consolas, monaco, courier, "courier new", fixed-width;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #333333;
   padding: 20px;
   margin: 0;
@@ -13,11 +23,35 @@ body {
     padding: 35px 50px;
   }
 }
+h1,
 h2,
 h3,
 h4,
-h5 {
-  margin: 45px 0 25px;
+h5,
+h6 {
+    margin-bottom: 1rem;
+    line-height: 1.25;
+    color: #313131;
+}
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
+h4,
+h5,
+h6 {
+  margin-top: 1.1rem;
+  font-size: 1.1rem;
 }
 img {
   max-width: 100%;
@@ -55,7 +89,7 @@ blockquote {
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
   a {
-    background: #ddd url("gravatar_wrapper.png");
+    background: #ddd url("logo_wrapper.png");
     color: #000;
     text-decoration: none;
     font-weight: 700;
@@ -76,8 +110,8 @@ blockquote {
     &:focus + .logo-prompt {
       display: inline-block !important;
     }
-    .gravatar {
-      margin-top: 5px;
+    .logo-avatar {
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       border-radius: 50%;
@@ -141,8 +175,10 @@ time {
   color: #555;
 }
 code,
-pre {
-  font-family: Consolas, Courier, monospace;
+pre,
+.code,
+.footnotes {
+  font-family: Consolas, monaco, monospace;
 }
 code {
   color: #f14e32;
@@ -190,9 +226,10 @@ iframe {
 article {
   max-width: 500px;
   margin: 0 auto;
-  .title {
+  h1.title {
     line-height: 1.4em;
     text-align: center;
+    font-size: 1.4em;
   }
   .divider {
     background: #ddd;
@@ -226,6 +263,8 @@ article {
   .footnotes {
     margin: 50px auto;
     display: block;
+    font-size: 0.8em;
+    color: #666;
     p {
       line-height: 1rem;
       font-weight: normal;

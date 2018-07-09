@@ -5,8 +5,8 @@ layout: default
 <article>
 
 	<div class="center">
-		<h1>{{ page.title }}</h1>
-		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
+		<h1 class="title">{{ page.title }}</h1>
+		<time class="code">{{ page.date | date: '%B %-d, %Y' }}</time>
 	</div>
 
 	<div class="divider"></div>
@@ -15,12 +15,12 @@ layout: default
 
 </article>
 
-<div class="page-navigation">
+<div class="page-navigation code">
 	{% if page.next.url %}
     <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
 		<span> &middot; </span>
   {% endif %}
-		<a class="home" href="{{ site.baseurl | prepend: site.url }}" title="Back to Homepage">Home</a>
+		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
   {% if page.previous.url %}
 		<span> &middot; </span>
     <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
