@@ -1,7 +1,3 @@
-{% if site.google_analytics and jekyll.environment == 'production' %}
-	{% include analytics.html %}
-{% endif %}
-
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,4 +18,8 @@
 
 {% if site.mathjax %}
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include analytics.html %}
 {% endif %}

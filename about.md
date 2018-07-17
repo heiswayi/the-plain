@@ -3,8 +3,19 @@ layout: page
 title: About
 ---
 
-Hello.
+Hi!
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+My name is Bruno and I'm a Computer Science student at FCUP, Portugal. Whenever
+I am not programming you can find me reading a book, watching some anime/movie
+or playing online competitive games. I dream to travel and experience living in
+Japan.
 
-**Less is more..**
+This is my personal blog and it is opened to whatever I feel writing about, hope
+you enjoy it! Below are some resources that may be util.
+
++ [Github](https://github.com/brunoccast)
++ [Twitter](https://twitter.com/brunoccast)
++ [Email](mailto:brunoccast@fc.up.pt)
+
+
+**See you Space Cowboy**
