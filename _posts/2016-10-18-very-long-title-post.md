@@ -1,6 +1,7 @@
 ---
 title: For Example of very Long Title Would Be Typography Elements in One
 updated: 2016-10-18 23:37
+draft: false
 ---
 
 **NOTE:** This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!

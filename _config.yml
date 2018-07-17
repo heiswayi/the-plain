@@ -1,14 +1,14 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "Bruno Casteleiro"
+description:        "Personal dev & stuff blog"
+author_name:        "Bruno Casteleiro" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/21957474?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                https://brunoccast.github.io # main url
+baseurl:            # gh-pages
 permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Europe/Lisbon # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
@@ -23,8 +23,11 @@ sass:
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 plugins:
+  - jemoji
+  - jekyll-remote-theme
   - jekyll-sitemap
 
+remote_theme: heiswayi/the-plain
 
 
 defaults:
