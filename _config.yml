@@ -25,7 +25,6 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
-  - jekyll-mentions
 
 remote_theme: heiswayi/the-plain
 
