@@ -14,6 +14,13 @@ mathjax:            true  # enables support for mathjax - set to 'false' to disa
 # Google Analytics
 google_analytics: UA-122323306-1
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: brunoccast
+
+
 # Site Build
 highlighter:        rouge
 markdown:           kramdown
