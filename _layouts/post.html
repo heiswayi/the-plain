@@ -26,3 +26,7 @@ layout: default
     <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
   {% endif %}
 </div>
+
+{% if site.disqus.shortname and page.comments == true %}
+    {% include disqus_comments.html %}
+{% endif %}
