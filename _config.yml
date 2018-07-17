@@ -12,7 +12,7 @@ timezone:           Europe/Lisbon # https://en.wikipedia.org/wiki/List_of_tz_dat
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Google Analytics
-google_analytics: UA-122323306-1
+google_analytics: 'UA-122323306-1'
 
 # Disqus Comments
 disqus:

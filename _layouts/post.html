@@ -27,6 +27,6 @@ layout: default
   {% endif %}
 </div>
 
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
+{% if site.disqus.shortname and page.comments == true %}
+    {% include disqus_comments.html %}
 {% endif %}
