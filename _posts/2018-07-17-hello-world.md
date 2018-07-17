@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-updated: 2018-07-17 20:00
+updated: 2018-07-17 20:04
 comments: false
 draft: false
 ---
@@ -22,5 +22,5 @@ I hope to share with you, the reader, much more code snippets and other
 interesting stuff in the future posts.
 
 This blog is hosted with Github Pages, using the awsomness of Jekyll and the
-theme "The Plain", from @heiswayi . 
+theme "The Plain", from [@heiswayi](https://github.com/heiswayi). 
 
