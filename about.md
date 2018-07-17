@@ -19,5 +19,3 @@ you enjoy it! Below are some resources that may be util.
 
 
 **See you Space Cowboy**
-
-:grin:
