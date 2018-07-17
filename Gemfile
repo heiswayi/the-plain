@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 gemspec
 group :jekyll_plugins do
+    gem 'github-pages'
     gem "jekyll-sitemap"
-    gem 'jekyll-remote-theme'
-    gem 'jemoji', '0.9.0'
 end
+gem 'jekyll-remote-theme'
 gem 'tzinfo'
 gem 'tzinfo-data'

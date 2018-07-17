@@ -23,12 +23,11 @@ sass:
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 plugins:
-  - jemoji
-  - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-mentions
 
 remote_theme: heiswayi/the-plain
-
 
 defaults:
   -
