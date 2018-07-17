@@ -22,5 +22,5 @@ I hope to share with you, the reader, much more code snippets and other
 interesting stuff in the future posts.
 
 This blog is hosted with Github Pages, using the awsomness of Jekyll and the
-theme "The Plain", from [@heiswayi](https://github.com/heiswayi). 
+theme "The Plain", from <a href="https://github.com/heiswayi" target="_blank">@heiswayi</a>. 
 

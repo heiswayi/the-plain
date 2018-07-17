@@ -13,9 +13,8 @@ Japan.
 This is my personal blog and it is opened to whatever I feel writing about, hope
 you enjoy it! Below are some resources that may be util.
 
-+ [Github](https://github.com/brunoccast)
-+ [Twitter](https://twitter.com/brunoccast)
-+ [Email](mailto:brunoccast@fc.up.pt)
-
++ <a href="https://github.com/brunoccast" target="_blank">Github</a>
++ <a href="https://twitter.com/brunoccast" target="_blank">Twitter</a>
++ <a href="mailto:brunoccast@fc.up.pt" target="_blank">Email</a>
 
 **See you Space Cowboy**
