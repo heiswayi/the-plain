@@ -11,6 +11,7 @@ script: ./script/cibuild.sh
 # https://jekyllrb.com/docs/continuous-integration/travis-ci/
 branches:
   only:
+  - master
   - gh-pages # test gh-pages branch
   - /pages-(.*)/
 
