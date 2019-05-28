@@ -2,7 +2,7 @@ Gem::Specification.new do |spec|
 	spec.name          = "the-plain"
 	spec.version       = "4.0.0"
 	spec.authors       = ["Heiswayi Nrird"]
-	spec.email         = ["heiswayi@nrird.xyz"]
+	spec.email         = ["heiswayi@nullableobject.com"]
 
 	spec.summary       = "A minimalist Jekyll theme"
 	spec.homepage      = "https://github.com/heiswayi/the-plain"
