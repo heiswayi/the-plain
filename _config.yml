@@ -25,7 +25,7 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "scr
 plugins:
   - jekyll-sitemap
 
-
+paginate: 5
 
 defaults:
   -
