@@ -1,10 +1,6 @@
 ---
 layout: page
-title: About
+title: Hanbum Ko
 ---
 
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+Hi! I'm studying Artificial Intelligence under the supervision of [**Prof. Sungbin Lim**](https://sites.google.com/view/sungbin/) in Learning Intelligent Machine Laboratory, UNIST AIGS. I am especially interested in Reinforcement Learning, Robotics.
