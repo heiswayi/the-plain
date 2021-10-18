@@ -10,6 +10,7 @@ baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
+social_share_previews: true
 
 # Site Build
 highlighter:        rouge
