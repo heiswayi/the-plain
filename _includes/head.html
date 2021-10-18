@@ -19,3 +19,14 @@
 {% if site.mathjax %}
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
+
+{% if site.social_share_previews %}
+	<meta property="og:title" content="{{ site.title }}">
+	<meta property="og:description" content="{{ site.description }}">
+	<meta property="og:image" content="{{ site.logo_url }}">
+	<meta property="og:url" content="{{ site.url }}">
+	<meta name="twitter:card" content="summary_large_image">
+
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta name="twitter:image:alt" content="{{ site.author_name }}">
+{% endif %}
