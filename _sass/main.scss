@@ -404,3 +404,25 @@ section {
     -webkit-transform: none;
   }
 }
+
+.nav {
+  min-height: 64px;
+}
+
+.navbar {
+  float: right;
+  margin: 0;
+  position: relative;
+  padding: 0;
+  pointer-events: all;
+  cursor: pointer;
+
+  li {
+    display: inline-block;
+    padding: 0 .6em;
+  }
+
+  a {
+    @extend .link;
+  }
+}
