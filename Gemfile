@@ -6,3 +6,5 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
+
+gem 'jekyll-remote-theme'
