@@ -32,12 +32,6 @@ plugins:
   - bourbon
   - jekyll-paginate
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
 
 remote_theme: heiswayi/the-plain
 
