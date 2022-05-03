@@ -5,6 +5,8 @@ title: About
 
 Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+My name is Zul. I'm from KL, Malaysia and I like to learn more about the universe. 
 
-**Less is more..**
+[github](https://github.com/zulfadz). 
+
+[**Books**](https://zulfadz.github.io/books/)
